@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Crescent Moon -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,28c-12.15,0 -22,9.85 -22,22s9.85,22 22,22c7.85,0 14.73,-4.12 18.62,-10.33c-11.41,0.61 -21.62,-8.42 -21.62,-19.67c0,-6.31 3.01,-12.01 7.82,-15.58c-1.51,-0.27 -3.08,-0.42 -4.82,-0.42z" />
+    <!-- Golden Star Accent -->
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M66,36l1.8,3.6 4,0.6 -2.9,2.8 0.7,4 -3.6,-1.9 -3.6,1.9 0.7,-4 -2.9,-2.8 4,-0.6z" />
+</vector>

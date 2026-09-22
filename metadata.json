@@ -1,0 +1,8 @@
+{
+  "name": "Athan",
+  "description": "Offline, zero-telemetry prayer times and Athan app with astronomical calculations, exact alarm scheduling, and bundled offline city database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

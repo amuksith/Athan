@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Athan</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="developer_name">amuksith</string>
+    <string name="developer_support_url">https://github.com/sponsors/amuksith</string>
+    <string name="github_repository_url">https://github.com/amuksith/Athan</string>
+    <string name="developer_support_title">Support the Developer</string>
+    <string name="developer_support_subtitle">Help keep Athan free &amp; independent</string>
+</resources>
+
