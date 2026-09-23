@@ -459,7 +459,7 @@ fun SettingsSheet(
 
             SettingClickableRow(
                 title = "About & Developer",
-                subtitle = "Developer amuksith, open source licenses, and support",
+                subtitle = "Developer Muksith, open source licenses, and support",
                 icon = Icons.Default.Info,
                 onClick = onAboutClick
             )

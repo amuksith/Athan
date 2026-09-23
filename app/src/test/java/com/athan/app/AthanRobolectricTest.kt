@@ -4375,7 +4375,7 @@ class AthanRobolectricTest {
         val supportUrl = context.getString(R.string.developer_support_url)
         val repoUrl = context.getString(R.string.github_repository_url)
 
-        assertEquals("amuksith", devName)
+        assertEquals("Muksith", devName)
         assertEquals("https://github.com/sponsors/amuksith", supportUrl)
         assertEquals("https://github.com/amuksith/Athan", repoUrl)
     }
