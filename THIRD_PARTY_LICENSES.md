@@ -124,4 +124,4 @@ Athan does not claim ownership of these third-party libraries.
 The Athan application itself is licensed separately under:
 **GNU General Public License v3.0**
 
-See the repository's root `LICENSE` file.
+See the repository's root [LICENSE](LICENSE) file.
