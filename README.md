@@ -23,10 +23,23 @@ Athan is designed from the ground up to respect user privacy and operate complet
 - **100% Local Storage**: All preferences, adjustments, and settings are stored locally on the device using Android SharedPreferences.
 
 
+## License
+
+Athan is licensed under the GNU General Public License v3.0.
+
+See the [LICENSE](LICENSE) file for the complete license terms.
+
 ## Open Source Acknowledgments
-This application is built with the following open-source frameworks:
-- **Jetpack Compose & Material 3** (Google LLC • Apache License 2.0)
-- **AndroidX Core & Lifecycle** (Google LLC • Apache License 2.0)
-- **Kotlinx Coroutines** (JetBrains s.r.o. • Apache License 2.0)
-- **Robolectric & Roborazzi** (Apache License 2.0)
+
+Athan uses third-party open-source libraries distributed under their respective licenses.
+
+The applicable third-party licenses and notices are documented in [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
+
+Athan itself remains licensed separately under the GNU General Public License v3.0.
+
+## Developer
+
+Developed by **Muksith**.
+
+Source code: https://github.com/amuksith/Athan
 
